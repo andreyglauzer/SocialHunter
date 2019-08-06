@@ -1,0 +1,28 @@
+facebook_user: user
+facebook_passwd: passwd
+twitter_user: user
+twitter_passwd: passwd
+database_name: "data.db"
+database_path: "utils/"
+save_log_dir: "/tmp/"
+rule_path: "utils/yararule/"
+time_scroll: 0.5
+sleep_time: 10
+path_webdriver: "utils/webdriver/geckodriver"
+headless: True
+debug: False
+
+reddit:
+  - group:
+      name: "HowToHack"
+      id: "HowToHack"
+
+twitter:
+  - group:
+      name: "Social Monitor"
+      id: "https://twitter.com/search?q=%22hacking%22&src=typed_query&f=live"
+
+facebook:
+  - group:
+      name: "4Hackers"
+      id: "2083414145282478"

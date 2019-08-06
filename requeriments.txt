@@ -1,0 +1,7 @@
+beautifulsoup4==4.8.0
+bs4==0.0.1
+PyYAML==5.1.2
+selenium==3.141.0
+soupsieve==1.9.2
+urllib3==1.25.3
+yara-python==3.10.0

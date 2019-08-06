@@ -1,0 +1,7 @@
+include "leak.yar"
+include "gist.yar"
+include "github.yar"
+include "pastebin.yar"
+include "ghostbin.yar"
+include "pwned.yar"
+include "mail.yar"
